@@ -1,0 +1,29 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    
+}
+.div1{
+   height: 30vh;
+   width: 25vh;
+   background-color: #9eebcf;
+   /* flex-basis: calc(50% / 4); */
+   margin-top: 30px;
+   margin-bottom: 25px; 
+
+}
+.div1:hover{
+    background-color: #ffa126;
+   transform: scale(1.1);
+   
+    
+}
+h6{
+    color: #2d3a3a;
+}
+h4{
+    color: #18171d;
+    font-size: 1.1em;
+}
+
